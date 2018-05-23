@@ -6,9 +6,15 @@
       <button class="py-2 px-4 rounded border border-red bg-red hover:bg-red-dark mr-4 text-white">Красный шаблон</button>
       <hr class="border border-grey">
 
-      <Blue></Blue>
-      <Green></Green>
-      <Red></Red>
+      <Blue>
+          <p>Это синий контент</p>
+      </Blue>
+      <Green>
+        <p>Это зеленый контент</p>
+      </Green>
+      <Red>
+        <p>Это красный контент</p>
+      </Red>
 
     </div>
 
